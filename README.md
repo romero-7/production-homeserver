@@ -1,5 +1,5 @@
 # Production homeserver
-# My Homelab Server
+## My Homelab Server
 
 A learning project documenting my home server setup using repurposed hardware.
 
