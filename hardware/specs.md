@@ -11,12 +11,14 @@
 ### Upgrades Performed
 - **RAM Upgrade**: 8GB → 32GB DDR3
   - Date: 2023
-  - Process: Searched for new RAM, boght it and instaled it, with no greater complications
+  - Process: Researched compatible RAM modules, purchased and installed with no major complications
 - **Storage Addition**: 
   - SSD: 256 Gb (Operating System)
   - HDD 1: 1 Tb (Data)
   - HDD 2: 1 Tb (Backup)
 
 ## Performance Notes
-- Boot time: [?]
-- Memory usage: [?]
+- **Boot time**: [To be measured]
+- **Memory usage**: [To be monitored]
+- **Average temperature**: [To be recorded]
+- **Power consumption**: [Watts/hour to be measured]
