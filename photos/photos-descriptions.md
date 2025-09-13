@@ -3,10 +3,10 @@
 ## Setup Overview
 Visual documentation of the homelab infrastructure.
 
-### server-external.jpg
-Dell OptiPlex 3070 in its operating environment
+### server-internal.jpg
+Dell OptiPlex 3070 working and operating
 
-### server-internal.jpg  
+### server-parts.jpg  
 Internal components showing RAM and GPU upgrade and storage configuration
 
 ### setup-overview.jpg
