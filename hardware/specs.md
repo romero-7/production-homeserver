@@ -10,12 +10,15 @@
 
 ### Upgrades Performed
 - **RAM Upgrade**: 8GB → 32GB DDR3
-  - Date: 2023
+  - Date: 2024
   - Process: Researched compatible RAM modules, purchased and installed with no major complications
 - **Storage Addition**: 
   - SSD: 256 Gb (Operating System)
   - HDD 1: 1 Tb (Data)
   - HDD 2: 1 Tb (Backup)
+- **GPU Upgrade**: Integrated Graphics → GTX 310
+  - Date 2024
+  - Process: Found one in an old PC, and installed it with no major complications
 
 ## Performance Notes
 - **Boot time**: [To be measured]
