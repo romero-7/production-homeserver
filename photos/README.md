@@ -7,7 +7,7 @@ Visual documentation of the homelab infrastructure.
 Dell OptiPlex 3070 in its operating environment
 
 ### server-internal.jpg  
-Internal components showing RAM upgrade and storage configuration
+Internal components showing RAM and GPU upgrade and storage configuration
 
 ### setup-overview.jpg
 Complete workspace setup including network connections
