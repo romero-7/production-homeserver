@@ -4,7 +4,8 @@
 A learning project documenting my home server setup using repurposed hardware.
 
 ## Hardware
-- Dell OptiPlex 3070 
+- Dell OptiPlex 3070
+- Upgraded GPU: Integrated Graphics → GTX 310
 - Upgraded RAM: 8GB → 32GB DDR3
 - Storage: 1x SSD + 2x HDD
 - Network: Gigabit Ethernet
@@ -29,7 +30,7 @@ A learning project documenting my home server setup using repurposed hardware.
 
 ## Progress Log
 - **Month 1**: Hardware setup and OS installation
-- **Month 2**: RAM upgrade and storage configuration
+- **Month 2**: RAM upgrade, storage configuration and GPU upgrade
 - **Current**: Documenting setup and planning improvements
 
 This is a learning project as I develop my system administration skills.
