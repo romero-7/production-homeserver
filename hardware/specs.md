@@ -15,13 +15,13 @@
 - **Storage Addition**: 
   - SSD: 256 Gb (Operating System)
   - HDD 1: 1 Tb (Data)
-  - HDD 2: 1 Tb (Backup)
+  - HDD 2: 1 Tb (Data)
+  - HDD 3: 1 Tb (Backup)
 - **GPU Upgrade**: Integrated Graphics → GTX 310
   - Date 2024
   - Process: Found one in an old PC, and installed it with no major complications
 
 ## Performance Notes
-- **Boot time**: [To be measured]
-- **Memory usage**: [To be monitored]
-- **Average temperature**: [To be recorded]
-- **Power consumption**: [Watts/hour to be measured]
+- **Boot time**: 33 seconds
+- **Memory usage**: 1 Gb [with btop open]
+- **Average temperature**: 26 ºC
