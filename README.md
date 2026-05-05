@@ -24,8 +24,6 @@ A learning project documenting my home server setup using repurposed hardware.
 
 ## Goals
 - Improve file sharing performance
-- Add web-based management
-- Implement automated backups
 - Learn containerization with Docker
 
 ## Progress Log
